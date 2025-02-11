@@ -1,5 +1,14 @@
-<h2 align="left">Hi 👋! My name is Davi.</h2>
+<h1 align="left">Hi there! 👋</h1>
+###
+<p align="left">Welcome to my GitHub profile! I'm a passionate student who is excited about learning and growing as a developer. Currently exploring various technologies and working on personal projects to improve my skills. 😊</p>
 
+<p>Here's a little bit about me:</p>
+
+<h2>🌟 About Me</h2>
+###
+<li>🚀 I’m always eager to improve and take on new challenges.</li>
+<li>🎓 I believe in continuous learning and the power of collaboration in open source.</li>
+<li>👨‍💻 Currently focused on building my knowledge and practical experience.</li>
 ###
 
 <div align="left">
