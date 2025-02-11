@@ -1,5 +1,7 @@
 <h1 align="left">Hi there! 👋</h1>
+
 ###
+
 <p align="left">Welcome to my GitHub profile! I'm a passionate student who is excited about learning and growing as a developer. Currently exploring various technologies and working on personal projects to improve my skills. 😊</p>
 
 <p>Here's a little bit about me:</p>
